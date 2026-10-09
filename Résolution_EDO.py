@@ -191,7 +191,6 @@ if __name__ == "__main__" :
     
     # Déroulement opérationnel
     pass
-    pass
     
     
     
